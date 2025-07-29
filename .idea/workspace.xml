@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c63c27f-2c05-468b-814b-386a3ce35926" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/kczy/minleast.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zZyjt0xGnYitMgldkxx9B1tAeL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.anniu.executor": "Run",
+    "Python.baioding.executor": "Run",
+    "Python.biany.executor": "Run",
+    "Python.cl.executor": "Run",
+    "Python.erzhi.executor": "Run",
+    "Python.fx.executor": "Run",
+    "Python.fx1.executor": "Run",
+    "Python.guiyihua.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.maxregion.executor": "Run",
+    "Python.mb.executor": "Run",
+    "Python.mb2 (1).executor": "Run",
+    "Python.mb2.executor": "Run",
+    "Python.mb3 (1).executor": "Run",
+    "Python.mb3.executor": "Run",
+    "Python.minleast.executor": "Run",
+    "Python.openCV_Histogram-Contour-Template.executor": "Run",
+    "Python.pj (1).executor": "Run",
+    "Python.pj.executor": "Run",
+    "Python.qx.executor": "Run",
+    "Python.qx02.executor": "Run",
+    "Python.qx03.executor": "Run",
+    "Python.qx1.executor": "Run",
+    "Python.self.executor": "Run",
+    "Python.singelyuan.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.timekc.executor": "Run",
+    "Python.txm.executor": "Run",
+    "Python.zf.executor": "Run",
+    "Python.zhenfan.executor": "Run",
+    "Python.zifu.executor": "Run",
+    "Python.zuf.executor": "Run",
+    "Python.传统算子复现 (1).executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/openCV_Histogram-Contour-MatchShapes-Recognize-master/深挖归一化",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\深挖归一化" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\按钮缺陷检测" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\字符识别" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\车道检测" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\biaoding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\按钮缺陷检测" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\data" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\给定区域二值化" />
+      <recent name="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\距离测量" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="from scipy.ndimage import label " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.传统算子复现 (1)">
+    <configuration name="传统算子复现 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/深挖归一化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/深挖归一化/传统算子复现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="归一化" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/深挖归一化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\深挖归一化\归一化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="传统算子复现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/深挖归一化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\openCV_Histogram-Contour-MatchShapes-Recognize-master\深挖归一化\传统算子复现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="self" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/深挖归一化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/深挖归一化/self.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timekc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV_Histogram-Contour-MatchShapes-Recognize-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/卡尺找圆" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/卡尺找圆/timekc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.传统算子复现 (1)" />
+        <item itemvalue="Python.timekc" />
+        <item itemvalue="Python.self" />
+        <item itemvalue="Python.归一化" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0c63c27f-2c05-468b-814b-386a3ce35926" name="更改" comment="" />
+      <created>1751953027892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751953027892</updated>
+      <workItem from="1751953029015" duration="519000" />
+      <workItem from="1751953562938" duration="91000" />
+      <workItem from="1751953662741" duration="3000" />
+      <workItem from="1751953694465" duration="10196000" />
+      <workItem from="1752028374968" duration="6573000" />
+      <workItem from="1752108957204" duration="5255000" />
+      <workItem from="1752116594488" duration="13624000" />
+      <workItem from="1752456709701" duration="9583000" />
+      <workItem from="1752559040180" duration="9353000" />
+      <workItem from="1752626556824" duration="11704000" />
+      <workItem from="1752800770881" duration="2626000" />
+      <workItem from="1753060674530" duration="647000" />
+      <workItem from="1753080030847" duration="16361000" />
+      <workItem from="1753233949673" duration="744000" />
+      <workItem from="1753234943597" duration="28869000" />
+      <workItem from="1753668670580" duration="2503000" />
+      <workItem from="1753757015679" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/卡尺找圆/timekc.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$zifu.coverage" NAME="zifu 覆盖结果" MODIFIED="1753080699880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字符识别" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$self.coverage" NAME="self 覆盖结果" MODIFIED="1753173405267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深挖归一化" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$maxregion.coverage" NAME="maxregion 覆盖结果" MODIFIED="1752117528018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/给定区域二值化" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$baioding.coverage" NAME="baioding 覆盖结果" MODIFIED="1752732290734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biaoding" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$fx.coverage" NAME="fx 覆盖结果" MODIFIED="1752198178776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/方向" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$qx03.coverage" NAME="qx03 覆盖结果" MODIFIED="1753082087443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/缺陷检测03" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$zf.coverage" NAME="zf 覆盖结果" MODIFIED="1752713399741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正反" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$erzhi.coverage" NAME="erzhi 覆盖结果" MODIFIED="1752116655981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/给定区域二值化" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$qx.coverage" NAME="qx 覆盖结果" MODIFIED="1752827269503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/缺陷检测03" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$qx1.coverage" NAME="qx1 覆盖结果" MODIFIED="1752827164545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/缺陷检测01" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$timekc.coverage" NAME="timekc 覆盖结果" MODIFIED="1753234945279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卡尺找圆" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$zuf.coverage" NAME="zuf 覆盖结果" MODIFIED="1752485251700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zifu" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$cl.coverage" NAME="cl 覆盖结果" MODIFIED="1752826944389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/距离测量" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$mb2__1_.coverage" NAME="mb2 (1) 覆盖结果" MODIFIED="1751958085169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mbpp" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$fx1.coverage" NAME="fx1 覆盖结果" MODIFIED="1752826913636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/方向" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$mb3__1_.coverage" NAME="mb3 (1) 覆盖结果" MODIFIED="1751957195123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mbpp" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$pj__1_.coverage" NAME="pj (1) 覆盖结果" MODIFIED="1752559069467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼接" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$qx02.coverage" NAME="qx02 覆盖结果" MODIFIED="1753082107466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/缺陷检测02" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$openCV_Histogram_Contour_Template.coverage" NAME="openCV_Histogram-Contour-Template 覆盖结果" MODIFIED="1751953054928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$mb3.coverage" NAME="mb3 覆盖结果" MODIFIED="1752827051980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板匹配" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$minleast.coverage" NAME="minleast 覆盖结果" MODIFIED="1753161696887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卡尺找圆" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$anniu.coverage" NAME="anniu 覆盖结果" MODIFIED="1753082995118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/按钮缺陷检测" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$zhenfan.coverage" NAME="zhenfan 覆盖结果" MODIFIED="1752827072197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正反" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$guiyihua.coverage" NAME="guiyihua 覆盖结果" MODIFIED="1753170588673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深挖归一化" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$test.coverage" NAME="test 覆盖结果" MODIFIED="1752118678329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_halcon-master" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1752195397657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Defect-workpiece-identification-based-on-OpenCV-master/src" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$pj.coverage" NAME="pj 覆盖结果" MODIFIED="1752826880218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/拼接" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$singelyuan.coverage" NAME="singelyuan 覆盖结果" MODIFIED="1753162849287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卡尺找圆" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$txm.coverage" NAME="txm 覆盖结果" MODIFIED="1752826992296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/条形码" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$mb.coverage" NAME="mb 覆盖结果" MODIFIED="1752029796980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$mb2.coverage" NAME="mb2 覆盖结果" MODIFIED="1752827048415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板匹配" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$biany.coverage" NAME="biany 覆盖结果" MODIFIED="1753249844747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深挖归一化" />
+    <SUITE FILE_PATH="coverage/openCV_Histogram_Contour_MatchShapes_Recognize_master$__1_.coverage" NAME="传统算子复现 (1) 覆盖结果" MODIFIED="1753327112999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深挖归一化" />
+  </component>
+</project>

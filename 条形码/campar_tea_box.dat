@@ -1,0 +1,73 @@
+#
+# INTERNAL CAMERA PARAMETERS
+#
+
+# ===== generic parameter syntax ==========================================
+#
+# Syntax:      ParGroup: <pargroupname>;
+#                        <pargroup_description>;
+#
+#               <name> : <shortname> : <default_value>;
+#                        <type> : <lower_bound> : <upper_bound>;
+#                        <description>;
+#
+#                [ <type> ::= BOOL|XBOOL|INT|FLOAT|DOUBLE|STRING ]
+#
+# =========================================================================
+
+
+
+##############################################################################
+#
+#  Camera : Parameter
+#    >  Focus
+#    >  Kappa
+#    >  Sx
+#    >  Sy
+#    >  Cx
+#    >  Cy
+#    >  ImageWidth
+#    >  ImageHeight
+#
+##############################################################################
+
+ParGroup: Camera: Parameter;
+	"Internal CCD-camera parameters";
+
+Focus:foc:	0.0136446;
+	DOUBLE:0.0:;
+	"Focal length of the lens [meter]";
+
+Kappa:kappa:	830.197;
+	DOUBLE::;
+	"Radial distortion coefficient [1/(meter*meter)]";
+
+Sx:sx:	4.58317e-006;
+	DOUBLE:0.0:;
+	"Width of a cell on the CCD-chip [meter]";
+
+Sy:sy:	4.65e-006;
+	DOUBLE:0.0:;
+	"Height of a cell on the CCD-chip [meter]";
+
+Cx:cx:	509.153;
+	DOUBLE:0.0:;
+	"X-coordinate of the image center [pixel]";
+
+Cy:cy:	487.791;
+	DOUBLE:0.0:;
+	"Y-coordinate of the image center [pixel]";
+
+ImageWidth:imgw:	800;
+	INT:1:32767;
+	"Width of the video images [pixel]";
+
+ImageHeight:imgh:	800;
+	INT:1:32767;
+	"Height of the video images [pixel]";
+
+
+#
+# HALCON Version 7.1 --  Thu Apr 12 12:55:36 2007
+
+#

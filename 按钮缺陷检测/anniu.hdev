@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="25.05.0.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>* 1. 读取图片</c>
+<l>* read_image(Image, 'C:/Users/王泽琨/Desktop/MVS_save_anniu/Image_20250717144654798.bmp')</l>
+<c></c>
+<l>read_image(Image, 'C:/Users/王泽琨/Desktop/MVS_save_anniu/Image_20250717144613655.bmp')</l>
+<c>* 2. 分解通道</c>
+<l>decompose3(Image, R, G, B)</l>
+<c></c>
+<c>* 3. 阈值分割橙色区域</c>
+<l>threshold(R, RegionR, 240, 255)</l>
+<l>threshold(G, RegionG, 110, 220)</l>
+<l>threshold(B, RegionB, 10, 70)</l>
+<c></c>
+<l>intersection(RegionR, RegionG, Temp1)</l>
+<l>intersection(Temp1, RegionB, OrangeButton)</l>
+<l>dev_display(OrangeButton)</l>
+<c></c>
+<c>* 4. 连通区域提取（找出所有橘色候选）</c>
+<l>connection(OrangeButton, ConnectedRegions)</l>
+<c></c>
+<c>* 5. 只保留最大面积的橘色区域（主按钮）</c>
+<l>select_shape(ConnectedRegions, ButtonRegion, 'area', 'and', 500, 999999)</l>
+<c></c>
+<c>* 6. 计算面积和重心</c>
+<l>area_center(ButtonRegion, Area, Row, Column)</l>
+<c></c>
+<c>* 7. 显示原图和检测结果</c>
+<l>dev_display(Image)</l>
+<l>dev_set_color('red')</l>
+<l>dev_display(ButtonRegion)</l>
+<l>dev_set_color('green')</l>
+<l>dev_disp_text('Area: ' + Area, 'image', 10, 10, 'black', [], [])</l>
+<c></c>
+<c>* 8. NG判定</c>
+<l>if (Area &lt; 4700)</l>
+<l>    dev_disp_text('OK', 'window', 50, 50, 'red', 'box', 'true')</l>
+<l>else</l>
+<l>    dev_disp_text('NG', 'window', 50, 50, 'green', 'box', 'true')</l>
+<l>endif</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
